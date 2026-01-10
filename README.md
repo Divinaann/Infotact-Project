@@ -7,27 +7,27 @@ This repository contains two Python-based projects focused on security, producti
    
 # ✨ Features
    
-> Cryptographically secure password generation using Python’s secrets module
-> Customizable password options (length, character sets)
-> Rich text editor with:
+1.Cryptographically secure password generation using Python’s secrets module
+2.Customizable password options (length, character sets)
+3.Rich text editor with:
    Bold, italic, underline formatting
-> Font style and size customization
-> Text alignment
-> Clipboard operations (copy, paste, cut)
-> Event-driven GUI design
-> Modular and maintainable application architecture
+4.Font style and size customization
+5.Text alignment
+6.Clipboard operations (copy, paste, cut)
+7.Event-driven GUI design
+8.Modular and maintainable application architecture
 
 # 🛠 Technologies Used
 
-> Python
-> Tkinter
-> secrets module
+1.Python
+2.Tkinter
+3.secrets module
 
 # 🎯 Learning Outcomes
 
-> GUI development using Tkinter
-> Secure random number generation
-> Event-driven programming
+1.GUI development using Tkinter
+2.Secure random number generation
+3.Event-driven programming
 
 
 # 🎤 Voice-Based Attendance System (KivyMD)
@@ -35,18 +35,18 @@ A voice-based attendance system that allows users to mark attendance by simply s
 
 # ✨ Features
 
-> Voice-controlled attendance marking
-> Intuitive and modern UI using KivyMD
-> Speech recognition for name detection
-> Real-time attendance storage with timestamps
-> Efficient and user-friendly attendance tracking
+1.Voice-controlled attendance marking
+2.Intuitive and modern UI using KivyMD
+3.Speech recognition for name detection
+4.Real-time attendance storage with timestamps
+5.Efficient and user-friendly attendance tracking
 
 # 🛠 Technologies Used
 
-> Python
-> KivyMD
-> Speech Recognition
-> MySQL
+1.Python
+2.KivyMD
+3.Speech Recognition
+4.MySQL
 
 # 🎯 Learning Outcomes
 
