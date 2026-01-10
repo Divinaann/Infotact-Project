@@ -8,7 +8,9 @@ This repository contains two Python-based projects focused on security, producti
 # ✨ Features
    
 1.Cryptographically secure password generation using Python’s secrets module
+
 2.Customizable password options (length, character sets)
+
 3.Rich text editor with:
    Bold, italic, underline formatting
 4.Font style and size customization
