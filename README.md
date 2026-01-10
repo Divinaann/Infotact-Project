@@ -1,5 +1,5 @@
-#Infotact Solutions 
-This repository contains two Python-based projects focused on security, productivity, and human–computer interaction. Both projects demonstrate practical application development using modern Python libraries, GUI frameworks, and secure programming practices.
+# Infotact Projects
+      This repository contains two Python-based projects focused on security, productivity, and human–computer interaction. Both projects demonstrate practical application development using modern Python libraries, GUI frameworks, and secure programming practices.
 
 # 🔐 Secure Password Generator & Rich Text Editor (Tkinter)
    # 📌 Project Overview
